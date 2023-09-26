@@ -1,0 +1,15 @@
+.mahasiswa {
+    width: 100%;
+    border-collapse: initial;
+}
+
+.mahasiswa th, .mahasiswa td {
+    border: 2px double black;
+    padding: 5px;
+    background-color: gold;
+    color: black;
+}
+
+.mahasiswa th {
+    text-align: center;
+}
